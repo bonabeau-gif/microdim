@@ -1,0 +1,34 @@
+{
+  "package": "microdim-repro",
+  "version": "1.0.0",
+  "created": "2026-09-25",
+  "manuscript": "What dimension have we estimated? Dimensionality in microbiome-metabolome models",
+  "components": {
+    "cohort_benchmark": {
+      "status": "public-data re-executable; frozen manuscript regression target included"
+    },
+    "effective_niche_dimension": {
+      "status": "published estimator reimplemented; frozen manuscript regression target included"
+    },
+    "rank_calibration": {
+      "status": "exact original code/seeds preserved"
+    },
+    "consumer_resource_theory": {
+      "status": "exact algebra; numerical experiment reconstructed because historical random-range file was not retained"
+    },
+    "micom_proxy": {
+      "status": "exact from pinned public exchange-flux input"
+    },
+    "figures": {
+      "status": "all 8 main/supplement figures regenerated from bundled reference results/reconstructed numerical check"
+    }
+  },
+  "source_commits": {
+    "borenstein-lab/microbiome-metabolome-curated-data": "89a519d8c832008fbc6e650453e83e2f04858d02",
+    "urtecholabucsd/FMT": "f571e19221b18a8a2517d0a77fc30652ed6326b8"
+  },
+  "validation": {
+    "unit_tests": "5 passed",
+    "reference_audit": "7 passed"
+  }
+}

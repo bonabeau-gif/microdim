@@ -1,0 +1,58 @@
+{
+  "cohort_repository": "borenstein-lab/microbiome-metabolome-curated-data",
+  "cohort_branch": "89a519d8c832008fbc6e650453e83e2f04858d02",
+  "cohorts": [
+    {
+      "id": "ERAWIJANTARI_GASTRIC_CANCER_2020",
+      "label": "Erawijantari gastric cancer",
+      "N": 96,
+      "group_column": "Subject"
+    },
+    {
+      "id": "FRANZOSA_IBD_2019",
+      "label": "Franzosa IBD",
+      "N": 220,
+      "group_column": "Subject"
+    },
+    {
+      "id": "HE_INFANTS_MFGM_2019",
+      "label": "He infants",
+      "N": 277,
+      "group_column": "Subject"
+    },
+    {
+      "id": "JACOBS_IBD_FAMILIES_2016",
+      "label": "Jacobs IBD families",
+      "N": 90,
+      "group_column": "Family_ID"
+    },
+    {
+      "id": "KANG_AUTISM_2017",
+      "label": "Kang autism",
+      "N": 44,
+      "group_column": "Subject"
+    },
+    {
+      "id": "WANDRO_PRETERMS_2018",
+      "label": "Wandro preterms",
+      "N": 75,
+      "group_column": "Subject"
+    },
+    {
+      "id": "WANG_ESRD_2020",
+      "label": "Wang ESRD",
+      "N": 287,
+      "group_column": "Subject"
+    },
+    {
+      "id": "YACHIDA_CRC_2019",
+      "label": "Yachida CRC",
+      "N": 347,
+      "group_column": "Subject"
+    }
+  ],
+  "micom_exchange_url": "https://raw.githubusercontent.com/urtecholabucsd/FMT/f571e19221b18a8a2517d0a77fc30652ed6326b8/Figure1/input/exchanges_d0_high_fiber.csv",
+  "micom_diversity_url": "https://raw.githubusercontent.com/urtecholabucsd/FMT/f571e19221b18a8a2517d0a77fc30652ed6326b8/Figure1/processed_data/vendor_diversity.csv",
+  "cohort_commit": "89a519d8c832008fbc6e650453e83e2f04858d02",
+  "micom_commit": "f571e19221b18a8a2517d0a77fc30652ed6326b8"
+}

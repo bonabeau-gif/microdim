@@ -1,0 +1,9 @@
+cohort,RRR_mean_R2,RRR_sd_R2,PCR_mean_R2,PCR_sd_R2,Ridge_mean_R2,Ridge_sd_R2,RRR_dimension
+Erawijantari gastric cancer,0.064,0.036,0.062,0.044,0.064,0.051,2
+Franzosa IBD,0.215,0.017,0.22,0.018,0.212,0.018,5
+He infants,0.091,0.021,0.091,0.023,0.09,0.018,2
+Jacobs IBD families,0.112,0.045,0.1,0.077,0.098,0.039,1
+Kang autism,-0.015,0.196,-0.032,0.191,-0.027,0.194,1
+Wandro preterms,0.181,0.076,0.145,0.051,0.143,0.047,1
+Wang ESRD,0.096,0.016,0.094,0.016,0.057,0.027,2
+Yachida CRC,0.098,0.034,0.103,0.028,0.071,0.034,2

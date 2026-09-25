@@ -1,0 +1,2 @@
+nseeds,max_factorization_relative_error,numerical_rank,largest_eigenvalue_max,minimum_resource,median_error_eta16,median_error_eta256,median_loglog_slope,slope_q025,slope_q975,note
+30,2.7e-16,2,1.7e-14,0.35,0.0101,0.000632,-1.0,-1.01,-0.989,Manuscript-reported summary. Exact original random seeds/ranges were not retained.

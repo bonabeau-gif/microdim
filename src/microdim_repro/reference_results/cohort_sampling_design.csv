@@ -1,0 +1,9 @@
+cohort,N_total,n_outer_train_approx,n_inner_train_approx,feature_cap_quarter_outer_train,observed_R2,observed_RRR_rank
+Erawijantari gastric cancer,96,77,62,19,0.064,2
+Franzosa IBD,220,176,141,44,0.215,5
+He infants,277,222,178,55,0.091,2
+Jacobs IBD families,90,72,58,18,0.112,1
+Kang autism,44,35,28,8,-0.015,1
+Wandro preterms,75,60,48,15,0.181,1
+Wang ESRD,287,230,184,57,0.096,2
+Yachida CRC,347,278,222,69,0.098,2

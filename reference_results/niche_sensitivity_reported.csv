@@ -1,0 +1,6 @@
+variant,abundance_filter,spearman_eta_vs_rrr
+base_seed_A,0.001,-0.1
+base_seed_B,0.001,-0.17
+base_seed_C,0.001,-0.1
+filter_0.005,0.005,0.05
+filter_none,0.0,-0.14

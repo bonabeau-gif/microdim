@@ -1,0 +1,9 @@
+cohort,n_rank_selection,fixed_pq,median_rank_fixed,capped_pq,median_rank_capped
+Kang autism,35,24,0,8,
+Wandro preterms,60,24,0,15,4.5
+Jacobs IBD families,72,24,1,18,3.5
+Erawijantari gastric cancer,77,24,1,19,3.0
+Franzosa IBD,176,24,10,24,10.0
+He infants,222,24,10,24,10.0
+Wang ESRD,230,24,10,24,10.0
+Yachida CRC,278,24,10,24,10.0

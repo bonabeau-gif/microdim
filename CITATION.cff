@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "microdim-repro"
+message: "If you use this package, cite the associated manuscript."
+type: software
+authors:
+  - family-names: Bonabeau
+    given-names: Eric
+version: 1.0.0
+date-released: 2026-09-25

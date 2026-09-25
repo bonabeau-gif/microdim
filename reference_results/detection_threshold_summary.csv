@@ -1,0 +1,41 @@
+cohort,N_total,n_rank_selection,n_inner_train_approx,true_rank,target_median_selected_rank,min_grid_population_R2,corresponding_per_direction_share
+Erawijantari gastric cancer,96,77,62,2,2,0.1,0.05
+Erawijantari gastric cancer,96,77,62,10,1,0.2,0.02
+Erawijantari gastric cancer,96,77,62,10,5,0.3,0.03
+Erawijantari gastric cancer,96,77,62,10,8,0.3,0.03
+Erawijantari gastric cancer,96,77,62,10,10,0.5,0.05
+Franzosa IBD,220,176,141,2,2,0.05,0.025
+Franzosa IBD,220,176,141,10,1,0.15,0.015
+Franzosa IBD,220,176,141,10,5,0.15,0.015
+Franzosa IBD,220,176,141,10,8,0.15,0.015
+Franzosa IBD,220,176,141,10,10,0.2,0.02
+He infants,277,222,178,2,2,0.05,0.025
+He infants,277,222,178,10,1,0.1,0.01
+He infants,277,222,178,10,5,0.15,0.015
+He infants,277,222,178,10,8,0.15,0.015
+He infants,277,222,178,10,10,0.15,0.015
+Jacobs IBD families,90,72,58,2,2,0.1,0.05
+Jacobs IBD families,90,72,58,10,1,0.2,0.02
+Jacobs IBD families,90,72,58,10,5,0.3,0.03
+Jacobs IBD families,90,72,58,10,8,0.3,0.03
+Jacobs IBD families,90,72,58,10,10,0.5,0.05
+Kang autism,44,35,28,2,2,0.2,0.1
+Kang autism,44,35,28,10,1,0.3,0.03
+Kang autism,44,35,28,10,5,0.5,0.05
+Kang autism,44,35,28,10,8,0.5,0.05
+Kang autism,44,35,28,10,10,0.5,0.05
+Wandro preterms,75,60,48,2,2,0.15,0.075
+Wandro preterms,75,60,48,10,1,0.3,0.03
+Wandro preterms,75,60,48,10,5,0.3,0.03
+Wandro preterms,75,60,48,10,8,0.5,0.05
+Wandro preterms,75,60,48,10,10,0.5,0.05
+Wang ESRD,287,230,184,2,2,0.05,0.025
+Wang ESRD,287,230,184,10,1,0.1,0.01
+Wang ESRD,287,230,184,10,5,0.15,0.015
+Wang ESRD,287,230,184,10,8,0.15,0.015
+Wang ESRD,287,230,184,10,10,0.15,0.015
+Yachida CRC,347,278,222,2,2,0.05,0.025
+Yachida CRC,347,278,222,10,1,0.1,0.01
+Yachida CRC,347,278,222,10,5,0.1,0.01
+Yachida CRC,347,278,222,10,8,0.1,0.01
+Yachida CRC,347,278,222,10,10,0.15,0.015

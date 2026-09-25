@@ -1,0 +1,15 @@
+cohort,N_total,n_rank_selection,n_inner_train_approx,observed_heldout_R2,nearest_population_R2,true_rank,median_selected_rank,mean_selected_rank,exact_rank_rate,rank_zero_rate,fraction_true_directions_retained,caveat
+Erawijantari gastric cancer,96,77,62,0.064,0.05,2,0.0,0.23,0.02,0.79,0.115,Observed held-out R2 is not population R2; nearest-grid comparison is descriptive only.
+Erawijantari gastric cancer,96,77,62,0.064,0.05,10,0.0,0.0,0.0,1.0,0.0,Observed held-out R2 is not population R2; nearest-grid comparison is descriptive only.
+Franzosa IBD,220,176,141,0.215,0.2,2,2.0,2.0,1.0,0.0,1.0,Observed held-out R2 is not population R2; nearest-grid comparison is descriptive only.
+Franzosa IBD,220,176,141,0.215,0.2,10,10.0,9.84,0.67,0.0,0.9710000000000001,Observed held-out R2 is not population R2; nearest-grid comparison is descriptive only.
+He infants,277,222,178,0.091,0.1,2,2.0,2.0,1.0,0.0,1.0,Observed held-out R2 is not population R2; nearest-grid comparison is descriptive only.
+He infants,277,222,178,0.091,0.1,10,4.0,4.01,0.05,0.27,0.4,Observed held-out R2 is not population R2; nearest-grid comparison is descriptive only.
+Jacobs IBD families,90,72,58,0.112,0.1,2,2.0,1.53,0.61,0.08,0.765,Observed held-out R2 is not population R2; nearest-grid comparison is descriptive only.
+Jacobs IBD families,90,72,58,0.112,0.1,10,0.0,0.04,0.0,0.96,0.004,Observed held-out R2 is not population R2; nearest-grid comparison is descriptive only.
+Wandro preterms,75,60,48,0.181,0.2,2,2.0,1.95,0.95,0.0,0.975,Observed held-out R2 is not population R2; nearest-grid comparison is descriptive only.
+Wandro preterms,75,60,48,0.181,0.2,10,0.0,1.33,0.0,0.57,0.131,Observed held-out R2 is not population R2; nearest-grid comparison is descriptive only.
+Wang ESRD,287,230,184,0.096,0.1,2,2.0,2.0,1.0,0.0,1.0,Observed held-out R2 is not population R2; nearest-grid comparison is descriptive only.
+Wang ESRD,287,230,184,0.096,0.1,10,4.0,4.42,0.11,0.27,0.43900000000000006,Observed held-out R2 is not population R2; nearest-grid comparison is descriptive only.
+Yachida CRC,347,278,222,0.098,0.1,2,2.0,2.0,1.0,0.0,1.0,Observed held-out R2 is not population R2; nearest-grid comparison is descriptive only.
+Yachida CRC,347,278,222,0.098,0.1,10,9.0,8.77,0.31,0.02,0.8590000000000001,Observed held-out R2 is not population R2; nearest-grid comparison is descriptive only.

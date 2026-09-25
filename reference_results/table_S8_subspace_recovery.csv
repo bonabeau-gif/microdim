@@ -1,0 +1,6 @@
+n_rank_selection,population_R2,per_direction_share,dimensions_retained,signal_variance_captured
+60,0.1,0.01,0.01,0.01
+176,0.1,0.01,0.09,0.07
+278,0.1,0.01,0.84,0.69
+176,0.15,0.015,0.84,0.69
+176,0.2,0.02,0.98,0.85

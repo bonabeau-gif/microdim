@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "microdim-repro"
+version = "1.0.0"
+description = "Reproducibility package for predictive, niche, and mechanistic dimensionality in microbiome-metabolome models"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{name = "Eric Bonabeau"}]
+dependencies = [
+  "numpy>=1.26",
+  "pandas>=2.1",
+  "scipy>=1.11",
+  "scikit-learn>=1.4",
+  "matplotlib>=3.8",
+]
+
+[project.scripts]
+microdim-repro = "microdim_repro.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"microdim_repro" = ["reference_results/*.csv", "reference_results/README.md", "datasets.json"]
