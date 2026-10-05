@@ -1,7 +1,7 @@
 # Reproducibility package: predictive, niche, and mechanistic dimensionality
 
 This package reproduces the computational analyses for the manuscript
-**“What dimension have we estimated? Dimensionality in microbiome-metabolome models.”**
+**“Predictive, niche, and mechanistic dimensionality in microbiome-metabolome models”**
 
 It covers:
 
@@ -14,15 +14,15 @@ It covers:
 
 ## Important reproducibility status
 
-Not all historical analyses have the same provenance. This package makes that explicit.
+Not all historical analyses have the same provenance. 
 
-**Exact code-preserved analyses.** The sample-size-matched rank calibration is incorporated from the original script used for the manuscript, including seeds, grids, and the ridge penalty. The MICOM analysis is fully reproducible from a public exchange-flux file and the package downloads that file directly.
+The MICOM analysis is fully reproducible from a public exchange-flux file and the package downloads that file directly.
 
 **Public-data re-executable analyses.** The eight-cohort benchmark and effective-niche analysis can be rerun from the public Borenstein Lab curated collection. The manuscript preserved the preprocessing rules and model definitions, but not every legacy random seed, optimization step size, or pseudocount implementation detail. The Python implementation here fixes those choices explicitly and supplies the manuscript tables as regression targets in `reference_results/`. Small numerical differences in a from-scratch rerun are therefore possible and should not be silently interpreted as new biological results.
 
 **Reconstructed numerical check.** The manuscript preserved the dimensions, model equations, timescale grid, number of seeds, and reported summary statistics for the fast-resource simulation, but the exact original random parameter ranges and seed file were not retained. `consumer_resource.py` implements a deterministic reconstruction of the stated experiment and separately preserves the manuscript-reported numbers in `reference_results/fast_resource_reported_summary.csv`. The reconstruction verifies the same rank, sign, reciprocity, positivity, and approximately inverse-timescale error behavior without pretending to recover lost historical random draws.
 
-This separation is deliberate: reference-result regeneration and independent re-execution are both provided, but they are not conflated.
+Reference-result regeneration and independent re-execution are both provided, but they are not conflated.
 
 ## Installation
 
