@@ -1,0 +1,10 @@
+descriptor,n,pearson,spearman
+column_l1,98,0.107494,-0.0145314
+column_l2,98,0.104303,0.0309742
+consuming_strains,98,0.125376,-0.0439708
+mean_positive,98,0.024873,0.15583
+max_positive,98,-0.00569263,0.0782634
+fitted_concentration,98,0.29574,0.22591
+nonzero_fitted_resource,98,0.209906,0.178164
+internal_standard_content,98,-0.053726,-0.129434
+spectral_tail_score,98,0.000365955,-0.068367

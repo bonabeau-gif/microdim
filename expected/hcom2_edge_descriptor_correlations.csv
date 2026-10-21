@@ -1,0 +1,5 @@
+descriptor,n,pearson,spearman
+magnitude,300,-0.0690155,0.0230359
+strain_degree,300,-0.140356,-0.133283
+resource_degree,300,0.0700507,0.0468088
+spectral_tail_score,300,-0.0776654,-0.117957

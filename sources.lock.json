@@ -1,0 +1,46 @@
+{
+  "borenstein_curated": {
+    "type": "github-files",
+    "repo": "borenstein-lab/microbiome-metabolome-curated-data",
+    "commit": "89a519d8c832008fbc6e650453e83e2f04858d02",
+    "doi": "10.1038/s41522-022-00345-5"
+  },
+  "mahajan_hcom2": {
+    "type": "github",
+    "repo": "Tarun-Mahajan/crn_gut_microbiome",
+    "commit": "7955825dd93ce619855ba2aff444d2595ebfdac0",
+    "doi": "10.1371/journal.pcbi.1013222"
+  },
+  "han_metabolomics": {
+    "type": "github",
+    "repo": "SonnenburgLab/Han_and_Van_Treuren_et_al_2021",
+    "commit": "849e13f606eef4cb83e16c6774035fad8b8d1446",
+    "doi": "10.1038/s41586-021-03707-9"
+  },
+  "jin_hcom2": {
+    "type": "github",
+    "repo": "xiaofanjin/gut-community-microcosms",
+    "commit": "3067a6c50f71c92e757c7ea4e5dafacaa5fdce79",
+    "doi": "10.1038/s41467-023-39121-0"
+  },
+  "ho_resource_competition": {
+    "type": "zenodo",
+    "record": 7535703,
+    "doi": "10.5281/zenodo.7535703",
+    "paper_doi": "10.1038/s41564-024-01625-w",
+    "known_md5": {
+      "BHI_assems.mat": "35ad3785b01241cf40a5279fc87f8895",
+      "BHI_assems_preds.mat": "515dff746d8661c8ca477ecf830cd512",
+      "BHI_niches.mat": "0b856ad5aa5f1d40d50bd85ab50c5793",
+      "BHI_niches_best.mat": "5c529238c76c65bf537a6ef0f27cfdf4",
+      "BHI_niches_top.mat": "27f22f4122244d51aa066105a43c984d",
+      "BHI_metabolomics.mat": "1d5a8b1a0922de9546cf6247ce15fafd",
+      "PredictAssemblies_BHI.m": "ef69e79284edc497411538c557297204",
+      "CR.m": "0a1cdf9b368e3d9aaf8a07f49c23c57f",
+      "FindSS.m": "0ac4e59f8bfe09996c3b3bc9e86e751d",
+      "CalculatePredictionError.m": "dfe59d563ea75b48a870e37958f32627",
+      "Organize_metabs.m": "fcc7cc950bc5aa0ddea0cb282094664b",
+      "Metabolomics_HILIC.xlsx": "25c95b2b3f4acf04298a90008d3b9559"
+    }
+  }
+}

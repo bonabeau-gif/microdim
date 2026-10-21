@@ -1,0 +1,34 @@
+{
+  "ERAWIJANTARI_GASTRIC_CANCER_2020": {
+    "label": "Erawijantari gastric cancer",
+    "group": "Subject"
+  },
+  "FRANZOSA_IBD_2019": {
+    "label": "Franzosa IBD",
+    "group": "Subject"
+  },
+  "HE_INFANTS_MFGM_2019": {
+    "label": "He infants",
+    "group": "Subject"
+  },
+  "JACOBS_IBD_FAMILIES_2016": {
+    "label": "Jacobs IBD families",
+    "group": "Family_ID"
+  },
+  "KANG_AUTISM_2017": {
+    "label": "Kang autism",
+    "group": "Subject"
+  },
+  "WANDRO_PRETERMS_2018": {
+    "label": "Wandro preterms",
+    "group": "Subject"
+  },
+  "WANG_ESRD_2020": {
+    "label": "Wang ESRD",
+    "group": "Subject"
+  },
+  "YACHIDA_CRC_2019": {
+    "label": "Yachida CRC",
+    "group": "Subject"
+  }
+}

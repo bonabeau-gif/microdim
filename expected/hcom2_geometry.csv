@@ -1,0 +1,4 @@
+matrix,participation_dimension,entropy_dimension,d90,d95,leading_energy,numerical_rank
+original,3.27,8.65,17,24,0.54,63
+binary_support,2.928,8.18,18,27,0.576,63
+row_normalized,3.504,9.34,18,26,0.519,63

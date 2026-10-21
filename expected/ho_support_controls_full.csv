@@ -1,0 +1,8 @@
+model,runs,converged,family_valid,median_primary_error,median_bray_curtis,relative_advantage_of_M0,assembly_direction_fraction
+M0,1,1,yes,1.72521,0.210715,0,0
+M1,1,1,yes,2.13452,0.37861,0.191761,0.78125
+M2,1,1,yes,2.07975,0.335752,0.170473,0.796875
+M3,1,1,yes,3.29233,0.263651,0.475992,0.796875
+M4,100,100,yes,2.38392,0.355775,0.276314,0.875
+M5,100,75,no,2.99568,0.28748,0.424103,0.890625
+M6,100,90,yes,2.7316,0.342988,0.368428,0.875

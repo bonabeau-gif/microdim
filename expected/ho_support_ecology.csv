@@ -1,0 +1,10 @@
+predictor,outcome,spearman,richness_adjusted_rank_correlation,n
+participation,observed_shannon,0.522959,-0.213172,64
+participation,floor_proxy_coexistence_fraction,-0.496328,-0.131133,64
+participation,published_author_error,0.396644,-0.215228,64
+mean_pairwise_overlap,observed_shannon,-0.199734,-0.160137,64
+mean_pairwise_overlap,floor_proxy_coexistence_fraction,0.178426,0.135197,64
+mean_pairwise_overlap,published_author_error,-0.327911,-0.316044,64
+support_redundancy,observed_shannon,-0.48742,0.0170846,64
+support_redundancy,floor_proxy_coexistence_fraction,0.452144,0.14947,64
+support_redundancy,published_author_error,-0.449496,-0.0804736,64

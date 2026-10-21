@@ -3,25 +3,25 @@ requires = ["setuptools>=69", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "microdim-repro"
+name = "gut-resource-dimension"
 version = "1.0.0"
-description = "Reproducibility package for predictive, niche, and mechanistic dimensionality in microbiome-metabolome models"
+description = "Code and numerical record for Gut microbial resource use can be low-dimensional yet functionally complex"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.11"
 authors = [{name = "Eric Bonabeau"}]
+license = {file = "LICENSE"}
 dependencies = [
-  "numpy>=1.26",
-  "pandas>=2.1",
-  "scipy>=1.11",
-  "scikit-learn>=1.4",
-  "matplotlib>=3.8",
+  "numpy>=1.26,<3", "pandas>=2.2,<3", "scipy>=1.13,<2",
+  "scikit-learn>=1.5,<2", "matplotlib>=3.9,<4", "requests>=2.32,<3",
+  "joblib>=1.4,<2", "networkx>=3.3,<4", "openpyxl>=3.1,<4",
+  "PyYAML>=6,<7"
 ]
 
-[project.scripts]
-microdim-repro = "microdim_repro.cli:main"
+[project.optional-dependencies]
+test = ["pytest>=8,<10"]
 
 [tool.setuptools.packages.find]
 where = ["src"]
 
-[tool.setuptools.package-data]
-"microdim_repro" = ["reference_results/*.csv", "reference_results/README.md", "datasets.json"]
+[tool.pytest.ini_options]
+testpaths = ["tests"]

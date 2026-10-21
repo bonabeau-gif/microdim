@@ -1,9 +1,7 @@
 cff-version: 1.2.0
-title: "microdim-repro"
-message: "If you use this package, cite the associated manuscript."
-type: software
+message: "Please cite the accompanying manuscript when using this repository."
+title: "Gut microbial resource use can be low-dimensional yet functionally complex"
 authors:
   - family-names: Bonabeau
     given-names: Eric
-version: 1.0.0
-date-released: 2026-09-25
+license: MIT
